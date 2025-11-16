@@ -8,10 +8,6 @@ import PlayersList from "../PlayersList/PlayersList";
 import GameLog from "../GameLog/GameLog";
 
 export type GameContainerProps = {
-  data: {
-    titles: [];
-    texts: [];
-  };
 };
 
 const initialPlayers = [
@@ -55,7 +51,7 @@ const initialPlayers = [
 
 const initialMessage = "You start!";
 
-const GameContainer: FunctionComponent<GameContainerProps> = ({ data }) => {
+const GameContainer: FunctionComponent<GameContainerProps> = () => {
   const [players, setPlayers] = useState(initialPlayers);
   const [activePlayer, setActivePlayer] = useState(0);
   const [bulletIndex, setBulletIndex] = useState(-1);

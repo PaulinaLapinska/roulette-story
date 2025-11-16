@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Roulette Game</h1>
-      <GameContainer data={{ titles: [], texts: [] }}></GameContainer>
+      <GameContainer></GameContainer>
     </div>
   );
 }

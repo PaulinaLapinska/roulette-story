@@ -50,4 +50,16 @@
 		width: 5px;
 		background-color: #005ABE;
 	}
+
 }
+
+    .info-box__toggle {
+        cursor: pointer;
+        padding: 10px;
+    }
+
+    .info-box__rules {
+        overflow-y: scroll;
+        scrollbar-color: black #282c34;
+        padding: 20px;
+    }
