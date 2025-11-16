@@ -1,5 +1,7 @@
 # Roulette game
-Simple russian roulette game written in one evening, lack of time was the deciding factor to use React instead of C++ and thingys I'm learning about like DirectX11. Not even OOP, but you can certainly click into it!
+Simple russian roulette game written in one evening (quality confirms it). Lack of time was the deciding factor to use React instead of C++ and thingys I'm learning about like DirectX11. Not even OOP, *but you can certainly click into it!*
+
+AI is really silly in this version; it's more PoC than anything else
 
 Link to Demo: https://roulette-story.onrender.com
 
