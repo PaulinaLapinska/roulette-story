@@ -1,0 +1,9 @@
+.game-log {
+    width: 30%;
+}
+.game-log__content {
+    overflow:scroll;
+    overflow-x: hidden;
+    height:300px;
+    scrollbar-color: black grey;
+}

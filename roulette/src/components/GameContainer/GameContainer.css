@@ -1,0 +1,13 @@
+.game-container__side-panel {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 50%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 5%;
+}
