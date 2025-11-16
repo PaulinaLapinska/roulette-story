@@ -1,7 +1,11 @@
 # Roulette game
 Simple russian roulette game written in one evening, lack of time was the deciding factor to use React instead of C++ and thingys I'm learning about like DirectX11. Not even OOP, but you can certainly click into it!
 
-https://roulette-story.onrender.com
+Link to Demo: https://roulette-story.onrender.com
+
+My usual GitHub account where the project will be moved: https://github.com/lapinskap
+
+Also C++ version with OOP in progress (on personal account)
 
 <img width="1862" height="897" alt="image" src="https://github.com/user-attachments/assets/2b27498e-23c4-4b31-bc3e-a3bd012cba54" />
 
